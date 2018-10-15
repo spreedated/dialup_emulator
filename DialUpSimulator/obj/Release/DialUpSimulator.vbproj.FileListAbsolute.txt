@@ -1,0 +1,13 @@
+D:\Daten\vbnet_projekte\DialUpSimulator\DialUpSimulator\bin\Release\DialUpEmulator.exe.config
+D:\Daten\vbnet_projekte\DialUpSimulator\DialUpSimulator\bin\Release\DialUpEmulator.exe
+D:\Daten\vbnet_projekte\DialUpSimulator\DialUpSimulator\bin\Release\DialUpEmulator.pdb
+D:\Daten\vbnet_projekte\DialUpSimulator\DialUpSimulator\bin\Release\DialUpEmulator.xml
+D:\Daten\vbnet_projekte\DialUpSimulator\DialUpSimulator\obj\Release\DialUpEmulator.config_form.resources
+D:\Daten\vbnet_projekte\DialUpSimulator\DialUpSimulator\obj\Release\DialUpEmulator.connection_form.resources
+D:\Daten\vbnet_projekte\DialUpSimulator\DialUpSimulator\obj\Release\DialUpEmulator.infobox.resources
+D:\Daten\vbnet_projekte\DialUpSimulator\DialUpSimulator\obj\Release\DialUpEmulator.main.resources
+D:\Daten\vbnet_projekte\DialUpSimulator\DialUpSimulator\obj\Release\DialUpEmulator.Resources.resources
+D:\Daten\vbnet_projekte\DialUpSimulator\DialUpSimulator\obj\Release\DialUpSimulator.vbproj.GenerateResource.Cache
+D:\Daten\vbnet_projekte\DialUpSimulator\DialUpSimulator\obj\Release\DialUpEmulator.exe
+D:\Daten\vbnet_projekte\DialUpSimulator\DialUpSimulator\obj\Release\DialUpEmulator.xml
+D:\Daten\vbnet_projekte\DialUpSimulator\DialUpSimulator\obj\Release\DialUpEmulator.pdb

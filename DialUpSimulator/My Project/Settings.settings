@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="myUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">user@world.com</Value>
+    </Setting>
+    <Setting Name="myPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">myBeitenPassword</Value>
+    </Setting>
+    <Setting Name="myMaxBaud" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="myNetAdapterName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">None</Value>
+    </Setting>
+    <Setting Name="myNetAdapterDeviceId" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
